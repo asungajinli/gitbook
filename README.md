@@ -1,3 +1,3 @@
-# Mobile Communication
+# LTE
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/LTE.png" alt=""><figcaption></figcaption></figure>
